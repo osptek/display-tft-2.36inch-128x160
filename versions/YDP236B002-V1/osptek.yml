@@ -1,0 +1,10 @@
+id: YDP236B002-V1
+category: displays
+size: "2.36"
+panel: tft
+resolution: 128x160
+interface: [spi]
+driver: ST7735S
+touch: null
+outline: 42.72 x 60.2 x 2.40 mm
+active_area: 36.72 x 48.96 mm
